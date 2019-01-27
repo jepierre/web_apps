@@ -1,0 +1,19 @@
+input[type="text"] 
+{ 
+  padding: 5px;
+  border-radius: 40px;
+  background-color:white; 
+  width: 415px ; 
+} 
+.btn {
+  border-radius: 40px;
+  margin: 5px;
+  width: 100px;
+}
+#equals {
+  width: 200px;
+}
+#cal-header {
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
